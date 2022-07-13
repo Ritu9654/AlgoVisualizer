@@ -1,1 +1,1 @@
-worker: python sortingVis.py
+worker: python algoVisualizer.py
