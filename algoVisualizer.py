@@ -184,7 +184,7 @@ def main():
 	sorting_algorithm_generator = None
 
 	while run:
-		clock.tick(30)
+		clock.tick(4)
 
 		if sorting:
 			try:
