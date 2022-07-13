@@ -41,7 +41,7 @@ class DrawInformation:
 
         # we need to create a window(screen) for pygame
 		self.window = pygame.display.set_mode((width, height), pygame.RESIZABLE)
-		pygame.display.set_caption("Sorting Algorithm Visualization")
+		pygame.display.set_caption("Algorithm Visualizer")
 		self.set_list(lst)
 
 	def set_list(self, lst):
